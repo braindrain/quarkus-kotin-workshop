@@ -1,0 +1,1 @@
+# quarkus-kotin-workshop
