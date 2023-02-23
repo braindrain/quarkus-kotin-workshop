@@ -1,1 +1,1 @@
-# quarkus-kotin-workshop
+# quarkus-kotlin-workshop
